@@ -20,4 +20,5 @@
 			{"status":1,"menu":"calRewards"},
 			{"status":1,"menu":"signin"},
 			{"status":1,"menu":"paydetail"}]}]
+	"updateconfig":"echo "Hahaha""
 }
